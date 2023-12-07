@@ -1,3 +1,6 @@
+![image](https://github.com/flixerdev/working-scripts-electronv3/assets/106023217/f7d9678f-aaf8-4e61-af60-29900982cde1)
+
+
 # What is this? ❓
 This is a page to help people know which scripts are supported on Electron V3.
 
