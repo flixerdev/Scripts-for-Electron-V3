@@ -2,7 +2,7 @@
 
 - Silent aim/aimbot(also ESP) | Working as of 07/12/23
 ```
-        loadstring(game:HttpGet('https://pastebin.com/raw/T3fzg7tm', true))()
+loadstring(game:HttpGet('https://pastebin.com/raw/T3fzg7tm', true))()
 ```
 
 # A 
